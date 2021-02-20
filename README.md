@@ -17,3 +17,8 @@ Screen_init();屏幕初始化
 Screen_set_point(x,y,hsv); 对应位置打点   hsv色域数值
 Screen_write_num(x,y,num,hsv); 对应位置显示一个3*5的数字
 Screen_flush();刷新屏幕
+
+
+
+
+个人邮箱：1570139720 @qq.com
